@@ -1,2 +1,2 @@
-# satush
-spotify app clone
+# satish
+rest country app clone
